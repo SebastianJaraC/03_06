@@ -13,7 +13,7 @@ import javax.swing.JPanel;
 
 /**
  *
- * @author David
+ * 
  */
 public class Ventanaprincipal extends javax.swing.JFrame implements ActionListener{
     private PanelPaint panelPaint;

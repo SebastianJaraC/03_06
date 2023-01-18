@@ -11,7 +11,7 @@ import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 /**
  *
- * @author David
+ 
  */
 public class PanelPaint extends JPanel implements MouseListener{
 
